@@ -10,3 +10,4 @@ Solving challenges from [Hacker Rank](https://www.hackerrank.com/dashboard) and 
 | [Day Of The Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer?h_r=profile) | Easy | 17/07/2019 |
 | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem?h_r=profile) | Easy | 17/07/2019 | 
 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | Easy | 17/07/2019 |
+| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/) | Easy | 24/07/2019 |
